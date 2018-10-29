@@ -7,7 +7,8 @@
 
 | **`Documentation`** |
 |-----------------|
-| [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/) |
+| [![Documentation](https://img.shields.io/badge/api-reference-blue.svg)](https://www.tensorflow.org/api_docs/) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGuy-test%2Ftensorflow.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FGuy-test%2Ftensorflow?ref=badge_shield)
+|
 
 **TensorFlow** is an open source software library for numerical computation using
 data flow graphs.  The graph nodes represent mathematical operations, while
@@ -133,3 +134,6 @@ Learn more about the TensorFlow community at the [community page of tensorflow.o
 ## License
 
 [Apache License 2.0](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FGuy-test%2Ftensorflow.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FGuy-test%2Ftensorflow?ref=badge_large)
